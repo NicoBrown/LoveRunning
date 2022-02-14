@@ -170,3 +170,24 @@ hr {
 	height: 100%;
 	border-radius: 50%;
 }
+
+#days {
+	align-items: center;
+	position: relative;
+	padding-left: 2.5%;
+	background: url(http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png) no-repeat center center;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	overflow: hidden;	
+}
+
+.days {
+	padding-top: 30px;
+	clear: both;
+	height: 150px;
+	width: 19%;
+	text-align: center;
+	background: rgba(240, 240, 240, 0.6);
+	display: inline-block;
+}
