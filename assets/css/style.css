@@ -445,4 +445,13 @@ footer {
 
 	position: absolute;
 	}	
+	.form-section {
+    clear: left;
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-position-x: -440px;
+    height: 900px;
+    background-repeat: no-repeat;
+	}
 }
